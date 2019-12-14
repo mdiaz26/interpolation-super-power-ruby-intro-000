@@ -1,9 +1,11 @@
 # Write your #display_rainbow method here
 def display_rainbow(array)
-new_array = []
+  new_array = []
+  index = 0
 
-array.length 
-new_array <<
-index += 1
-puts new_array
+    while index < array.length 
+      new_array <<
+      index += 1
+    end
+  puts new_array
 end
